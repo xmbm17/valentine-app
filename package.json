@@ -1,5 +1,6 @@
 {
   "name": "valentine-app",
+  "homepage": "https://xmbm17.github.io/valentine-app",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
